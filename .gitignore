@@ -1,0 +1,9 @@
+*db.sqlite3
+
+*.py[oa]
+
+将删除 .idea/inspectionProfiles/
+
+*.xml
+
+*/migrations/
